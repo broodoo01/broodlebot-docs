@@ -79,6 +79,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 
 * !beautiful
 * !boobs
+* !ass
 * !catjam
 * !ff9bot
 * !funk
@@ -248,7 +249,7 @@ Return to [Broodlebit commands](#broobit)
 !gamble all
 ```
 * value got to be positive and an integer 
-* you can gamble all your brooglebits if you have the balls
+* you can gamble all your broodlebits if you have the balls
 * it's always a 50/50 for win or lose
 
 Return to [Broodlebit commands](#broobit)
