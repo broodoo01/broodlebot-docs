@@ -201,7 +201,7 @@ Return to [Broodlebot commands](#broobot)
 lucky seven
 ```
 * will display a random valid lucky seven value
-* string can be anywgere within message to trigger the command
+* string can be anywhere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
@@ -212,7 +212,7 @@ Return to [Broodlebot commands](#broobot)
 meteor 
 ```
 * will display a random valid meteor values
-* string can be anywgere within message to trigger the command
+* string can be anywhere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
@@ -223,7 +223,7 @@ Return to [Broodlebot commands](#broobot)
 rng 
 ```
 * will display a random number ranging form 1 to 9999
-* string can be anywgere within message to trigger the command
+* string can be anywhere within message to trigger the command
 
 Return to [Broodlebot commands](#broobot)
 
