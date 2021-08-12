@@ -77,9 +77,9 @@ Return to [Command Categories](#comcat)
 ### List of other bot commands {#otherbot}
 There will just be a simple text reply when you type these commands. We don't want to ruin the fun so no more documentation is provided here. Just try the commands in chat and see what happens. 
 
+* !ass
 * !beautiful
 * !boobs
-* !ass
 * !catjam
 * !ff9bot
 * !funk
