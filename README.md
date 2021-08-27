@@ -90,6 +90,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 * !rainbowjam
 * !ripandtear
 * !shutthefunkup
+* !snakes
 * !steinaa
 * !timeout steth
 * !waa
