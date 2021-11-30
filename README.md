@@ -79,23 +79,30 @@ There will just be a simple text reply when you type these commands. We don't wa
 
 * !ass
 * !beautiful
+* !beep
 * !boobs
 * !catjam
 * !ff9bot
 * !funk
+* !funky
 * !glod
 * !gold
 * !lani
+* !luna
+* !nut
 * !patch
 * !rainbowjam
 * !ripandtear
+* !route
+* !sal
 * !shutthefunkup
 * !snakes
 * !steinaa
 * !timeout steth
-* !waa
+* !unfollow
 * !whyisthecameraoff
 * !whyreset
+* !yan
 * beep
 * literally ff9
 * luna
@@ -103,6 +110,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 * rip
 * toransu
 * trance
+* waa
 
 Return to [Command Categories](#comcat)
 
