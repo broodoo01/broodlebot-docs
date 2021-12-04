@@ -87,6 +87,7 @@ There will just be a simple text reply when you type these commands. We don't wa
 * !funky
 * !glod
 * !gold
+* !grin
 * !lani
 * !luna
 * !nut
